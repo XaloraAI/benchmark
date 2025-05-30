@@ -3,7 +3,7 @@
 ## Installation
 
 ```bash
-git clone https://github.com/heurist-network/lambda-diffusers.git
+git clone https://github.com/XaloraAI 
 cd lambda-diffusers
 python -m venv .venv
 source .venv/bin/activate
