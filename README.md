@@ -7,7 +7,7 @@ git clone https://github.com/XaloraAI
 cd lambda-diffusers
 python -m venv .venv
 source .venv/bin/activate
-pip install -r requirements.txt
+pip install -r requirements.txt 
 ```
 
 ## How to run benchmark
