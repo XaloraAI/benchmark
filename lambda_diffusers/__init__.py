@@ -1,1 +1,1 @@
-from .pipelines import StableDiffusionImageEmbedPipeline
+from .pipelines import StableDiffusionImageEmbedPipeline 
