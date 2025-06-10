@@ -3,7 +3,7 @@ import torch
 import time
 import statistics
 
-proxy = False
+proxy = False 
 if proxy:
     import os
     os.environ['CURL_CA_BUNDLE'] = ''
